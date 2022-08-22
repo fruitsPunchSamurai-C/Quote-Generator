@@ -21,6 +21,5 @@ This project was created with :
 - Responsive
 
 ## Screenshots
-
-
+![quote-generator](https://user-images.githubusercontent.com/108081381/185941144-a14346e8-c232-4b18-b987-166e778ab3b4.png)
 
