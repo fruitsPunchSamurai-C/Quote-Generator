@@ -23,3 +23,6 @@ This project was created with :
 ## Screenshots
 ![quote-generator](https://user-images.githubusercontent.com/108081381/185941144-a14346e8-c232-4b18-b987-166e778ab3b4.png)
 
+<img width="508" alt="quote-generator-mobile" src="https://user-images.githubusercontent.com/108081381/185948606-9a2f3e7a-512a-4639-9c69-df5ba8cacc6e.png">
+
+
