@@ -18,6 +18,7 @@ This project was created with :
 ## Features
 
 - By clicking on the new-quote button, a random Gintama quote appears.
+- Responsive
 
 ## Screenshots
 
